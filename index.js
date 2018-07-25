@@ -13,7 +13,7 @@ function johnLennonFacts(facts){
 var test = Array()
 var i = 0 
 while(i < facts.length)
-{test.push()
+{
 i++
 }
 return test}
