@@ -2,7 +2,7 @@
 
 function theBeatlesPlay(musicians, instruments){
 var placeholder = Array()
-for(var i = 0; i < placeholder.length; i++) {array.pop(`$[musicians] plays $[instruments]`)}
+for(var i = 0; i < placeholder.length; i++) {placeholder.pop(`$[musicians] plays $[instruments]`)}
 return placeholder
 }
 
