@@ -10,10 +10,9 @@ return placeholder
 }
 
 function johnLennonFacts(facts){
-var test = Array()
 var i = 0 
 while(i < facts.length)
-{
+{facts.slice()
 i++
 }
 return test}
