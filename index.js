@@ -10,8 +10,9 @@ return placeholder
 }
 
 function johnLennonFacts(facts){
-  
-}
+var test = Array()
+while()
+return }
 
 function iLoveTheBeatles(){
   
