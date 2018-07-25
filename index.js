@@ -18,4 +18,3 @@ function iLoveTheBeatles(){
 }
 
 
-musicians.find(function(element)
