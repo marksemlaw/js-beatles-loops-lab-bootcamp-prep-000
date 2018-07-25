@@ -13,3 +13,6 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(){
   
 }
+
+
+musicians.find(function(element)
