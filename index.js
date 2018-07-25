@@ -18,9 +18,9 @@ return test}
 
 function iLoveTheBeatles(number){
   var test2 = Array()
-  var i = 0
+  var i = number
   do{
-    test2.pop("I love the Beatles!")
+    test2.push("I love the Beatles!")
     i++
   } 
   while(
