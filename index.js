@@ -11,11 +11,14 @@ return placeholder
 
 function johnLennonFacts(facts){
 var test = Array()
-while()
-return }
+while(a){test.push()
+test++
+}
+return test}
 
-function iLoveTheBeatles(){
-  
+function iLoveTheBeatles(number){
+  var test2 = Array()
+  do() {} while() {}
 }
 
 
