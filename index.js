@@ -11,8 +11,10 @@ return placeholder
 
 function johnLennonFacts(facts){
 var test = Array()
-while(a){test.push()
-test++
+var i = 0 
+while(i < facts.length)
+{test.push()
+i++
 }
 return test}
 
