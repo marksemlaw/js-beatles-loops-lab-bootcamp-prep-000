@@ -18,9 +18,13 @@ return test}
 
 function iLoveTheBeatles(number){
   var test2 = Array()
-  do{test2.push("I love the Beatles!")} while(
-    test2 < 15
-    test2++)
-}
+  var i = 0
+  do{
+    test2.push("I love the Beatles!")
+    i++
+  } 
+  while(
+    i < 15)
+return }
 
 
