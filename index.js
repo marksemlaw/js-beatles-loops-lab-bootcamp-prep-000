@@ -12,7 +12,7 @@ return placeholder
 function johnLennonFacts(facts){
 var i = 0 
 while(i < facts.length)
-{facts.splice()
+{facts.splice(i, 1, )
 i++
 }
 return test}
