@@ -5,7 +5,7 @@ var beatles = Array()
 for(var i = 0; i < musicians.length; i++) {
   var musician = musicians[i]
   var instrument = instruments[i]
-  beatles.push(`${musicians} plays ${instruments}`)}
+  beatles.push(`${musician} plays ${instrument}`)}
 return beatles
 }
 
