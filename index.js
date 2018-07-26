@@ -12,10 +12,10 @@ return placeholder
 function johnLennonFacts(facts){
 var i = 0 
 while(i < facts.length)
-{facts.splice(i, 1, )
+{facts.splice(i, 1, facts(i) + "!!!")
 i++
 }
-return test}
+return facts}
 
 function iLoveTheBeatles(number){
   var test2 = Array()
